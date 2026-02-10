@@ -1,1 +1,2 @@
 This is demo session for git!
+This is the first line.
