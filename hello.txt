@@ -1,2 +1,3 @@
 This is demo session for git!
 This is the first line.
+This is from feature-1.
