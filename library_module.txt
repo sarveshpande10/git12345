@@ -1,2 +1,3 @@
 //Initial Module Design details
 //Database Scheme details and error-handling logic
+//Optimization notes
