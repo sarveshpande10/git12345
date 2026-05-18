@@ -4,6 +4,12 @@
       "title": "Sjsj",
       "description": "Apspsos",
       "id": "kCsPflHgnSA"
+    },
+    {
+      "title": "cdofp",
+      "description": "vflbgnp",
+      "id": "76ANiyYgRr8"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
